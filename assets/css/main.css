@@ -458,6 +458,7 @@ section {
     font-size: 14px;
     margin-bottom: 0;
     text-align: justify;
+    letter-spacing: 1px;
 }
 
 .modalidades .service-item:hover .details h3 {
